@@ -4,6 +4,13 @@ TinyDrop20 is a small ATtiny85-based 5x4 charlieplexed LED matrix board. The
 repository contains the PlatformIO firmware project, Eagle design files, and
 manufacturing outputs for hardware revision `V1_1`.
 
+## Project background
+
+This project was created in collaboration with [@talofer99](https://github.com/talofer99)
+as part of a series of free-time hardware and firmware projects we built years
+ago. I decided to move these projects to GitHub in the hope that they may be
+useful, educational, or inspiring to others.
+
 ## Repository layout
 
 ```text
@@ -156,4 +163,3 @@ Hardware/V1_1/Manufacturing/Schematic/TinyDrop20_V1_1.pdf
 - To enable the text display mode, set `mode = 1` or re-enable the EEPROM mode
   selection logic.
 - Generated PlatformIO build files under `.pio/` should not be committed.
-
