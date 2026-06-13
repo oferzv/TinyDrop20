@@ -11,6 +11,8 @@ as part of a series of free-time hardware and firmware projects we built years
 ago. I decided to move these projects to GitHub in the hope that they may be
 useful, educational, or inspiring to others.
 
+This PCB revision was manufactured and tested.
+
 ## Repository layout
 
 ```text
